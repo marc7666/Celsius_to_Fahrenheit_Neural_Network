@@ -1,4 +1,4 @@
-# Celsius to Fahrenheit with neuronal network
+# Celsius to Fahrenheit with neural network
 
 Result of the loss function:
 
