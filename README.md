@@ -2,4 +2,4 @@
 
 Result of the loss function:
 
-![loss_function](download.png)
+![loss_function](download.jpg)
